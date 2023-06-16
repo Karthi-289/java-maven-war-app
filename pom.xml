@@ -38,11 +38,11 @@
 
     <distributionManagement>
     <snapshotRepository>
-      <id>java-maven-app-snapshot</id>
+      <id>java-maven-app-snapshots</id>
       <url>http://172.31.30.89:8081/repository/java-maven-app-snapshots/</url>
     </snapshotRepository>
     <repository>
-      <id>java-maven-app-release</id>
+      <id>java-maven-app-releases</id>
       <url>http://172.31.30.89:8081/repository/java-maven-app-releases/</url>
     </repository>
   </distributionManagement>
